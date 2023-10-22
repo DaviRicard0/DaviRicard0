@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRicard0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que trabalho!
+### 🛠️ Tecnologias que trabalho!
 
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,mysql,jquery,git,bootstrap,html,css,javascript" />
